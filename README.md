@@ -36,5 +36,5 @@ Future work may include expanding the grid to search a wider range of hyperparam
 
 ### Contributers
 
-#### -[@mohiabd99](https://github.com/Mohiabd99)
+#### -[@MohmmadhoseinAbdollahi](https://github.com/MohmmadhoseinAbdollahi)
 #### -[@anitatehrani](https://github.com/anitatehrani)
